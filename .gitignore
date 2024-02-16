@@ -1,6 +1,8 @@
 test/
 backup/
 
+data/
+
 config.py
 .DS_Store
 */.DS_Store
